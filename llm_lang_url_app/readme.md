@@ -18,6 +18,5 @@ project-root/
 **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-web-app.git
-   cd your-web-app
+   git clone [https://github.com/MuhammedAjmalG/llm_langchain_learning/tree/main/llm_lang_url_app]
    

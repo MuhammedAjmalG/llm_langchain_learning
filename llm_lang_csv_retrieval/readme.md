@@ -4,6 +4,9 @@
 
 Welcome to [CSV File Uploader and Query Interface]! This web application allows users to seamlessly upload a CSV file, convert its data into vector embeddings using Hugging Face models, and store these embeddings in a Faiss database. Users can then query the database using Google Palm models with the ability to retrieve relevant information.
 
+### Video demo
+(https://lnkd.in/gwtrsnWp)
+
 ## Features
 
 - **CSV File Upload:** Users can easily upload a CSV file containing their data.

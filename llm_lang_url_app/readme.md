@@ -1,4 +1,4 @@
-# Advanced NLP Web Application: Enhancing Information Retrieval with Streamlit, Hugging Face, and GooglePAM
+# Advanced NLP Web Application: Enhancing Information Retrieval with Streamlit, Hugging Face, and GooglePALM
 This web application allows users to analyze and retrieve information from two input URLs using various natural language processing (NLP) techniques. It leverages Streamlit for the user interface, and the backend logic is organized into `main.py` and `helper.py`. Make sure to follow the instructions below to set up and run the application.
 
 ## Project Structure

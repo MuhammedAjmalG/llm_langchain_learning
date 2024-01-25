@@ -14,8 +14,7 @@ Welcome to the PDFQueryApp! This application allows users to upload a PDF, extra
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MuhammedAjmalG/llm_langchain_learning.git
-   cd llm_langchain_learning/llm_lang_url_app
+   git clone https://github.com/MuhammedAjmalG/llm_langchain_learning/Betterzila _Changumangu_Solutions_LLP_task
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
